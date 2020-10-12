@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "annoliate"
+version = "0.0.0"
+description = "An annotation-fueled python web framework for people who have other stuff to do"
+authors = [
+    "Nick Badger <nbadger1@gmail.com>"
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.4"
+ipython = "*"
+flake8 = "*"
+pylint = "*"
+bandit = "*"

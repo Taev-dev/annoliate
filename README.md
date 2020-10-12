@@ -1,7 +1,6 @@
 # Annoliate
 
-Annoliate is a web framework for people who have other shit to do. Its
-top three goals, in no particular order:
+Annoliate is an annotation-fueled python web framework for people who have other shit to do. Its top three goals, in no particular order:
 
 +   Minimize the learning curve. If you understand Python, you should intuitively understand Annoliate.
 +   Massively streamline the process of creating a production-grade API, including input validation and route documentation.
